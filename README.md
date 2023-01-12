@@ -1,2 +1,2 @@
-# rblogdown_v1
+# rblogdown
 learn R package of blogdown
