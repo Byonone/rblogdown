@@ -24,7 +24,7 @@ interests:
 - Restoration ecology
 - Plant ecology
 - Data analysis by R
-profile_picture: profile.jpg
+profile_picture: profile.png
 
 ---
 
