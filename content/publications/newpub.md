@@ -1,17 +1,15 @@
 ---
-title: "Your Paper Name Goes Here"
+title: "Responses of soil seed banks to drought on a global scale"
 authors:
-- Your Full Name
-- Another Researcher
-date: "2018-09-01"
+- Zhongyu Du
+- Guangcai Chen
+date: "2023-01-01"
 
-publication: "Journal of Machine Learning"
+publication: "Science of The Total Environment"
 
 links:
-    pdf: https://github.com/hadisinaee/avicenna
-    code: https://github.com/hadisinaee/avicenna
-    slides: https://github.com/hadisinaee/avicenna
-    video: https://github.com/hadisinaee/avicenna
+    Online read: https://doi.org/10.1016/j.scitotenv.2022.161142
+
 
 ---
 

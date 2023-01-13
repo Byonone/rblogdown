@@ -1,15 +1,13 @@
 ---
-title: "Your Paper Name Goes Here"
+title: "Potential geographical distribution and habitat shift of the genus Ammopiptanthus in China under current and future climate change based on the MaxEnt model"
 authors:
-- Your Full Name
-- Author Name
-date: "2016-09-01"
+- Zhongyu Du
+- Yizhong Duan
+date: "2020-09-01"
 
-publication: "Journal of Machine Learning"
+publication: "Journal of Arid Environments"
 
 links:
-    pdf: https://github.com/hadisinaee/avicenna
-    code: https://github.com/hadisinaee/avicenna
-    slides: https://github.com/hadisinaee/avicenna
-    video: https://github.com/hadisinaee/avicenna
+    Online read: https://doi.org/10.1016/j.jaridenv.2020.104328
+
 ---
