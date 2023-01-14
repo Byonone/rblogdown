@@ -6,7 +6,7 @@ academia:
     major: Ecolgoy
     start_date: "2021"
 - course:
-    degree: M.Sc.
+    degree: M.S.
     end_date: "2021"
     institution: Ningxia University
     major: Ecology
