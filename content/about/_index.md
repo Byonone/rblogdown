@@ -28,6 +28,6 @@ profile_picture: profile.png
 
 ---
 
-**Research** Research interests include restoration of degraded ecosystems and the adaptation mechanism of plants to the adversity environment, with broad interests in plant ecology, community ecology, restoration ecology.
+Research interests include restoration of degraded ecosystems and the adaptation mechanism of plants to the adversity environment, with broad interests in plant ecology, community ecology, restoration ecology.
 
 [1]: ahadsfsa.com
